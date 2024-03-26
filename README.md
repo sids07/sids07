@@ -2,7 +2,7 @@
 
 I am a curious NLP Engineer and Learner who loves to work and research on every small things that excites me.
 
-Skills: HuggingFace, Langchain, Opeania Python, Keras,  Pytorch,  Computer Vision, NLP(Natural Language Processing) , Statistics, SQL, JAVA, GRPC, ArangoDB
+Skills: HuggingFace, Langchain, OpenAI, Python, Keras,  Pytorch,  Computer Vision, NLP(Natural Language Processing) , Statistics, SQL, JAVA, GRPC, ArangoDB
 
 - 🔭 I’m currently working as an NLP Engineer in Fusemachines.
 - 🌱 I’m currently exploring and building systems based on OpenAI and commercially available open source models.
